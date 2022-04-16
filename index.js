@@ -11,7 +11,6 @@ function App(){
         }
         getData();
     },[])
-    console.log('loaded:', loaded, 'data:', data);
 
     return (
         <div className="container">

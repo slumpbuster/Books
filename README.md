@@ -37,6 +37,7 @@ This was done as an assignment in the MIT course - Full Stack Development with M
 
 ## Files 
 - **/index.html** - Start-up file to be opened by browser
+- **/index.js** - Contains the code to read the data from the json file and Render the React data to the DOM
 - **/books.js** - Contains the React code to build the Bootstrap cards containing the book(s) information
 - **/books.json** - Contains the data for the books that is parsed in books.js
 - **styles.css** - Stylesheet file that positions objects, controls text, colors, and layout
